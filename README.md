@@ -13,6 +13,6 @@ Language and Tools
 ![AzureDevops](https://img.shields.io/badge/AzureDevops-brightgreen)
 ![Fiddler](https://img.shields.io/badge/Fiddler-brightgreen)
 ## Follow Me
-![YouTube](https://img.shields.io/badge/YouTube-red)
-![Telegram](https://img.shields.io/badge/Telegram-blue)
-![Vkontakte](https://img.shields.io/badge/Vkontakte-indigo)
+[![YouTube](https://img.shields.io/badge/YouTube-red)](https://www.youtube.com/@crossoutbangog/featured)
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/Hakermylife)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-indigo)](https://vk.com/bangogcom)
