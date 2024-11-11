@@ -16,7 +16,13 @@
 ![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charles&logoColor=#F3F5F5)
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=#4479A1)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=#3DDC84)
+
 ## Соцсети
+
 [![YouTube](https://img.shields.io/badge/YouTube-090909?style=for-the-badge&logo=youtube&logoColor=#FF0000)](https://www.youtube.com/@crossoutbangog/featured)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=#26A5E4)](https://t.me/Hakermylife)
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=#0077FF)](https://vk.com/bangogcom)
+
+## Сертификаты
+
+[Тестирование ПО с нуля,2024](https://stepik.org/cert/2644454)
