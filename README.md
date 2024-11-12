@@ -29,3 +29,4 @@
 
 ## Портфолио
 
+[Тест кейсы и чек-листы для GitHub](https://docs.google.com/spreadsheets/d/1vTjz9kMXWkWhyHlpQoPSMzB0jCcO71frv9rhvOadl6U/edit?usp=sharing)
